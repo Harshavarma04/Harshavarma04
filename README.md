@@ -40,10 +40,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
 ### 📊 **GitHub Stats**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshavarma04&theme=black-ice&hide_border=true&stroke=0000&background=060A0C)
-![Harsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshavarma04&show_icons=true&theme=dark)
 
 ---
 
