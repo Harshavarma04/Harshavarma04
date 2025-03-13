@@ -4,6 +4,7 @@
 📊 **Turning Data into Insights | Building AI-Powered Solutions**  
 🚀 **Exploring AI, Cloud, and Data-Driven Technologies**  
 
+---
 
 ### 🔹 Projects & Repositories  
 - 🤖 **Gen-AI:** Exploring Generative AI Models – [Repo](https://github.com/Harshavarma04/Gen-AI)  
@@ -11,14 +12,18 @@
 - 📊 **Mini-Project:** A Hands-on Project Showcasing AI & Data Science – [Repo](https://github.com/Harshavarma04/Mini-Project)  
 - 🛠️ **Zeotap:** Data Solutions & Analysis with Zeotap – [Repo](https://github.com/Harshavarma04/Zeotap)  
 
+---
+
 ### 💼 Know about my experiences:  
 [🔗 Resume Repo](https://github.com/Harshavarma04/resume)
 
+---
 
 ### 📫 **How to Reach Me:**  
 ✉️ Email: [40harsha@gmail.com](40harsha@gmail.com)  
 🔗 LinkedIn: [Harsha Vardhini](https://www.linkedin.com/in/harsha-vardhini04/)
 
+---
 
 ### 🛠️ **Tech Stack & Tools**  
 
